@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the King, concerning the obseruation of his edicts of the vnion of his Catholique subiects, to the rooting out of heresie: carrying withall, a putting vp, and burying of all such things as haue beene cmmitted contrarie therevnto, vntill this present, by any of his saide Catholique subiects.</title>
+            <author>France. Sovereign (1574-1589 : Henry III)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A02954</idno><idno type="EEBO-CITATION">99847848</idno>
+  <idno type="VID">12911</idno>
+  <idno type="EEBO-PROQUEST">2248531840</idno>
+  <idno type="STC">STC 13098.2</idno>
+  <idno type="STC">ESTC S112601</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99847848e"/>
+            <note>(EEBO-TCP ; phase 2, no. A02954)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12911)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 465:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the King, concerning the obseruation of his edicts of the vnion of his Catholique subiects, to the rooting out of heresie: carrying withall, a putting vp, and burying of all such things as haue beene cmmitted contrarie therevnto, vntill this present, by any of his saide Catholique subiects.</title>
+                  <author>France. Sovereign (1574-1589 : Henry III)</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>By S. Milanges [i.e. T. Orwin], ordinarie printer vnto the King,</publisher>
+                  <pubPlace>At Burdeaux [i.e. London] :</pubPlace>
+                  <date>1589.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint false; actual printer's name and place of publication from STC.</note>
+                  <note>Translated from the original French.</note>
+                  <note>Formerly STC 13094.</note>
+                  <note>Identified as STC 13094 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:12911:1"/>
+            <pb facs="tcp:12911:1"/>
+            <p>A DECLARATION OF THE KING, CONCERNING the obseruation of his Edicts, of the vnion of his Catholique Subiects, to the rooting out of here<g ref="char:EOLhyphen"/>sie: carrying withall, a putting vp, and burying of all such things as haue beene commit<g ref="char:EOLhyphen"/>ted contrarie therevnto, vntill this present, by any of his saide Ca<g ref="char:EOLhyphen"/>tholique Subiects.</p>
+            <figure>
+               <figDesc>printer's device of S. Milanges?</figDesc>
+            </figure>
+            <p>
+               <hi>At BVRDEAVX.</hi> By S. Milanges, ordinarie Printer vnto the <hi>King. 1589.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:12911:2"/>
+            <pb facs="tcp:12911:2"/>
+            <head>❧ A declaration of the King, <hi>con<g ref="char:EOLhyphen"/>cerning the obseruation of his Edicts of</hi> the vnion of his Catholique subiects, to the roo<g ref="char:EOLhyphen"/>ting out of heresie: carying withall, a putting vp and <hi>burying of all such thinges, as haue beene committed</hi> con<g ref="char:EOLhyphen"/>trarie therevnto, vntill this present, by any of his said Catholique Subiects.</head>
+            <opener>
+               <salute>
+                  <hi>
+                     <seg rend="decorInit">H</seg>Enry by the grace</hi> of God King of <hi>Fraunce,</hi> and <hi>Poland,</hi> to all those to whom these presents shal come greeting.</salute>
+            </opener>
+            <p>We haue at all times, and specially since our Edict of the mo<g ref="char:EOLhyphen"/>neth of Iuly last past; try<g ref="char:EOLhyphen"/>ed by all manner of meanes possible, to vnite all our good Catholique subiectes to liue in concord and good will, and vnder our autho<g ref="char:EOLhyphen"/>ritie: to the ende that from the said vnion, and strength that shoulde rise of it vnto vs, wee might reape the fruite which we haue alwaies sought after and endeuoured vnto, to clense this our realme from heresies, and to establish in it our holy faith, the Catholique, Aposto<g ref="char:EOLhyphen"/>licke,
+<pb n="4" facs="tcp:12911:3"/> and <hi>Romane</hi> religion: for seeing plaine<g ref="char:EOLhyphen"/>ly, that there coulde spring nothing els from the diuision of our saide Catholique subiects, but a desolation of the saide religion, and the ouerthrowe of our state. And although of late some were founde neere about vs, which did striue too too manifestly, in our presence, and els where, by their adherents, to kindle and foster the saide diuision, to breede in euerie one a misliking of our proceedinges, and to bring downe altogether our authoritie: wee not<g ref="char:EOLhyphen"/>withstanding, with great patience and equa<g ref="char:EOLhyphen"/>nimitie, haue tollerated the effects of their euill will which they shewed in this behalfe, trying by all fauour and good vsage that wee could, to bow their hearts, and bring them vnto that which was agreable to reason, for the good &amp; quiet of our said state, &amp; the maintaining of our said catholique religion. They neuerthelesse not beeing withdrawen from their pernicious practises, neither through the saide effectes of our gentlenesse and holy purpose, nor through any other consideration; wee founde out that they were growen so farre, as to haue attemp<g ref="char:EOLhyphen"/>ted a freshe against vs and our authoritie which to withstand, wee haue beene constrai<g ref="char:EOLhyphen"/>ned, to our great griefe, to preuent their sini<g ref="char:EOLhyphen"/>ster practises. But for the singuler good will, which hath beene bred with vs, and alwaies continued, and will continue towards our saide Catholique subiects, with like care of
+<pb n="5" facs="tcp:12911:3"/> their quietnesse, safetie, and preseruation of their liues, that a Father might haue ouer his children; we haue vsed such gentlenesse and moderation in the same, as to restraine and stay the punishment in the heades onely and authors of the euill, hauing spared their adhe<g ref="char:EOLhyphen"/>rents and seruants, and receiued them among ours, vpon the promisse which they haue giuen vs to be hence forwarde loyall and faithfull subiectes. And although as well by our for<g ref="char:EOLhyphen"/>mer actions, as by this our latter doing, wee haue giuen such euident witnesse of our holie intention, gentlenesse, and clemencie; that no man neede to doubte thereof: notwithstan<g ref="char:EOLhyphen"/>ding to make it more manifest to all men, wee for these causes, haue signified, declared, and protested, and by these presents doe signifie, de<g ref="char:EOLhyphen"/>clare, and protest, that, that which is happe<g ref="char:EOLhyphen"/>ned, hath beene for nothing else, but for the in<g ref="char:EOLhyphen"/>fringing of our said Edict in the moneth Iuly, euen since the publication thereof. And for the execution of that which is conteined in it, our will and intent is to haue it kept, obserued, and maintained from point to point, as a grounded lawe, as we haue established it, and sworne in the assembly of our states, according to the forme and tenor thereof. Yet notwith<g ref="char:EOLhyphen"/>standing to assure all other which may haue beene partakers of contrarie demeanor there<g ref="char:EOLhyphen"/>vnto, that they shall neuer be called in question for it, and to maintaine them in the vnion of
+<pb n="6" facs="tcp:12911:4"/> our other Catholique subiects vnder one obe<g ref="char:EOLhyphen"/>dience: we haue put vp, buried, and abolished, and doe by these presents put vp, bury, and a<g ref="char:EOLhyphen"/>bolish, of our full power, speciall fauour, and royall authoritie, all that, wherein they may haue faulted in the behalfe of their duty of o<g ref="char:EOLhyphen"/>bedience which they owe vnto vs: and the oath taken by them for the obseruation of our said edict; so that they shall not hereafter be atached or molested any waies or means that may bee, which we inhabite vnto all our iudges &amp; offi<g ref="char:EOLhyphen"/>cers. And in this behalfe we haue enioyned, &amp; doe by these presentes enioyne silence vnto our generall attourney; &amp; to all others, vpon con<g ref="char:EOLhyphen"/>dition, that henceforth they shall wholly relin<g ref="char:EOLhyphen"/>quish all leagues, associations, practises, dea<g ref="char:EOLhyphen"/>lings, attemptes, and intelligences with any person, whatsoeuer he be, within or without our said realme: nether shal they make any, nor enter into any, nor perticipate nor cleaue to a<g ref="char:EOLhyphen"/>ny, directly or indirectly, in what sort or māner soeuer it be, which moreouer we forbid most expresly vnto all our subiectes, what quality or condition soeuer they be of. And if hereafter any oppose himselfe in this case, wee enioyne most expresly our saide Iudges and officers to proceede against them, as in our said Edict is specified. Also we giue charge to our trustie and welbeloued of our Courts of Parlia<g ref="char:EOLhyphen"/>ments, Bailiffs, Stewards, or their deputies, and to all other Iustices and officers whome
+<pb n="7" facs="tcp:12911:4"/> it shall belong vnto, that they cause these pre<g ref="char:EOLhyphen"/>sents to be red, published, and regestred, and the contentes thereof to keepe, and cause to bee kept, obserue, and maintaine, according to their forme and tenor, without any thing to the contrarie, and not to suffer the breach ther<g ref="char:EOLhyphen"/>of by any, in any wise: for such is our will. In witnesse whereof, wee haue caused our Seale to be set to these presents.</p>
+            <closer>
+               <dateline>Giuen at <hi>Bloys,</hi>
+                  <date>the last of December, in the yeere of our LORD 1588. And of our raigne the 15.</date>
+               </dateline>
+               <signed>Sygned thus. <hi>HENRY.</hi> And vppon the folding vp. <hi>By the King. Reuol.</hi>
+               </signed> And sealed in yelow wax vpon a double labell hanging downe.</closer>
+         </div>
+         <div type="license">
+            <p>Red, published, and registred, at the request of the Kings generall Attorney, at <hi>Burdeaux</hi> in the parlia<g ref="char:EOLhyphen"/>ment, the 19 of <hi>Ianuary.</hi> 1589.</p>
+            <closer>
+               <signed>Sygned thus. D. ARNAL.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
